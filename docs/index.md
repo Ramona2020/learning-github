@@ -11,7 +11,7 @@ Topics: source control, Git, Markdown, creating a repository
 
 **Handout:** [GitHub I: The Basics](Handouts/Session1-TheBasics.md)
 
-**Handout:** <a href="Handouts/Session1-TheBasics.md" target="_blank">Github I: The Basics</a>
+**Handout:** <a href="Handouts/Session1-TheBasics.md"; target="_blank";>Github I: The Basics</a>
 
 
 ### GitHub II:  Intermediate

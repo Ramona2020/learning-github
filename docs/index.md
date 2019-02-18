@@ -9,7 +9,7 @@ Central Library, Vanderbilt Author's Room (418A)
 Learn what GitHub can do for you and build your own online repository.   
 Topics: source control, Git, Markdown, creating a repository   
 
-**Handout:** ![GitHub I: The Basics](docs/Handouts/Session1-TheBasics.md)
+**Handout:** [GitHub I: The Basics](Handouts/Session1-TheBasics.md)
 
 
 ### GitHub II:  Intermediate

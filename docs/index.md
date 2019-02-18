@@ -7,7 +7,9 @@ Monday, February 18, 2019, 12:10pm
 Central Library, Vanderbilt Author's Room (418A)
 
 Learn what GitHub can do for you and build your own online repository.   
-Topics: source control, Git, Markdown, creating a repository
+Topics: source control, Git, Markdown, creating a repository   
+
+**Handout:** ![GitHub I: The Basics](Handouts/Session1-TheBasics.md)
 
 
 ### GitHub II:  Intermediate
@@ -25,7 +27,7 @@ Friday, February, 22, 2019, 12:10pm
 Central Library, Vanderbilt Author's Room (418A)
 
 Learn to play well with others using GitHub's collaborative tools.   
-Topics: issues, pull requests as a collaborative tool, project management 
+Topics: issues, pull requests as a collaborative tool, project management
 
 
 *Recommended text editor for all sessions: [Atom](https://atom.io/).  You can work with Git and GitHub directly from Atom!*

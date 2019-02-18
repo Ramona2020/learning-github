@@ -14,7 +14,7 @@ Topics: source control, Git, Markdown, creating a repository
 
 ### GitHub II:  Intermediate
 Wednesday, February, 20, 2019, 12:10pm   
-Central Library, Vanderbilt Author's Room (418A)
+Central Library, Vanderbilt Poetry Room (612A)
 
 Up your GitHub game with the GitHub desktop client.   
 Topics: GitHub desktop client, cloning, forking, resolving merge conflicts   
@@ -24,7 +24,7 @@ Topics: GitHub desktop client, cloning, forking, resolving merge conflicts
 
 ### GitHub III:  Advanced
 Friday, February, 22, 2019, 12:10pm   
-Central Library, Vanderbilt Author's Room (418A)
+Central Library, Vanderbilt Poetry Room (612A)
 
 Learn to play well with others using GitHub's collaborative tools.   
 Topics: issues, pull requests as a collaborative tool, project management

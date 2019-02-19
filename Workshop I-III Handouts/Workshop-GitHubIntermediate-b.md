@@ -70,7 +70,7 @@ After the "patch" branch is created, a new page opens to create a pull request:
 
 ---
 
-Notice that the pull request includes an "@mention" with the my username.  That generates an email to the collaborator:
+Notice that the pull request includes an "@mention" with my username.  That generates an email to the collaborator:
 
 ---
 <img src="images-2b/pull-request-email.png" style="border:1px solid black">

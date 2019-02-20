@@ -4,11 +4,11 @@
 
 <img src="images-3/commits.jpg" alt="branch" width="300"/>
 
-## Branches
+## Branching
 
 <img src="images-3/branch-diagram.jpg" alt="branch" width="400"/>
 
-## Cloning
+## Cloning and Checking Out
 
 ![Cloning process](images-3/clone.jpg)
 
@@ -62,7 +62,7 @@ Here's what the forked repo page looks like now:
 
 ---------
 
-Here's what the page looks like when we click on the `New pull request` button.  Notice that we have switched from the forked (head) repo to the organizational (base) repo.
+This is what we see after we click on the `New pull request` button.  Notice that we have switched from the forked (head) repo to the organizational (base) repo.
 
 ---------
 <img src="images-3/compare-changes.png" style="border:1px solid black">
@@ -119,7 +119,10 @@ Once you embark on collaborative work, you will probably need to set up infrastr
 
 Anyone can create an organization for free.  However, at this point in time, the organization can only have public repositories.  So for operations like labs that might want to have private repos, you'd need to use the P.I.'s account to create a private repo.
 
+---------
 <img src="images-3/new-organization.png" style="border:1px solid black">
+
+---------
 
 Once you've set up the organization, you can add members, change their status (owner, member, outside collaborator), grant administrative privileges to repos, and establish teams. The ownership of the repository can be granted to other members in the event that the person who created the organization leaves it.  
 
@@ -290,3 +293,9 @@ When a pull request is merged or an issue is closed, their card automatically mo
 Cards can also be manually moved from one column to another and additional columns can be added.
 
 An additional feature that we won't discuss today is reviews.  One can request a review of a pull request.  A reviewer can make comments, approve a merge, and request changes. A repository can also be set up with rules about the conditions under which a branch can be merged, including a requirement for approval of a reviewer before the pull request can be merged. This can provide extra protection for master branches that serve a critical purposes, such as providing the code for a website.
+
+# More !!!
+
+An additional powerful feature of GitHub is free hosting and management of websites using [GitHub Pages](https://pages.github.com/).  Pages can be written in Markdown, then rendered as HTML by the Jekyll system according to pre-configured or customized templates.  Unfortunately, we don't have time to talk about Pages today.
+
+For more information and a topical breakdown of what we've studied in this workshop, visit the libraries' Digital Scholarship website at <https://heardlibrary.github.io/digital-scholarship/manage/control/github/>.

@@ -19,7 +19,7 @@ Central Library, Vanderbilt Poetry Room (612A)
 Up your GitHub game with the GitHub desktop client.   
 Topics: GitHub desktop client, cloning, forking, resolving merge conflicts   
 
-**Handout:** [GitHub II: Intermediate - Part I](Handouts/Session2-Intermediate-Part1.md)
+**Handout:** [GitHub II: Intermediate - Part I](Handouts/Session2-Intermediate-Part1.md), [GitHub II: Intermediate - Part II](Handouts/Session2-Intermediate-Part2.md)
 
 *We recommend installing the [desktop client](https://desktop.github.com/) on your computer prior to attending the session*
 

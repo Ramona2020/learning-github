@@ -1,3 +1,24 @@
+# Review
+
+## Commits
+
+<img src="../images-intro/commits.jpg" alt="branch" width="300"/>
+
+## Branches
+
+<img src="../images-branch/branch-diagram.jpg" alt="branch" width="400"/>
+
+## Cloning
+
+![Cloning process](../images-branch/clone.jpg)
+
+## Forking
+
+[Forking](../images-branch/forks.jpg)
+
+# Collaboration models
+
+
 
 # Managing Projects with GitHub
 

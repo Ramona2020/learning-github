@@ -2,19 +2,19 @@
 
 ## Commits
 
-<img src="../images-intro/commits.jpg" alt="branch" width="300"/>
+<img src="images-3/commits.jpg" alt="branch" width="300"/>
 
 ## Branches
 
-<img src="../images-branch/branch-diagram.jpg" alt="branch" width="400"/>
+<img src="images-3/branch-diagram.jpg" alt="branch" width="400"/>
 
 ## Cloning
 
-![Cloning process](../images-branch/clone.jpg)
+![Cloning process](images-3/clone.jpg)
 
 ## Forking
 
-[Forking](../images-branch/forks.jpg)
+[Forking](images-3/forks.jpg)
 
 # Collaboration models
 
@@ -30,7 +30,7 @@ Once you embark on collaborative work, you will probably need to set up infrastr
 
 Anyone can create an organization for free.  However, at this point in time, the organization can only have public repositories.  So for operations like labs that might want to have private repos, you'd need to use the P.I.'s account to create a private repo.
 
-<img src="../images-projects/new-organization.png" style="border:1px solid black">
+<img src="images-projects/new-organization.png" style="border:1px solid black">
 
 Once you've set up the organization, you can add members, change their status (owner, member, outside collaborator), grant administrative privileges to repos, and establish teams. The ownership of the repository can be granted to other members in the event that the person who created the organization leaves it.  
 

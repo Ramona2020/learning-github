@@ -1,9 +1,27 @@
 
-# Issues tracker
+# Managing Projects with GitHub
 
-GitHub comes with an integrated issues tracker that we can use for keeping track of work on tasks and general communication.
+In addition to the tools that allow GitHub to carry out its core functions (commits, forking, branching, pull requests), GitHub has a number of other tools that make it possible for organizations to plan and track the work that they are doing on document-based projects. On this page we'll introduce several important ones.
 
-## Creating an issue
+## Collaboration infrastructure: organizations and teams
+
+Once you embark on collaborative work, you will probably need to set up infrastructure that is not dependent on your personal GitHub account. One key is to set up an organization.  Creating an organization allows repositories to be jointly owned by several people, so if an organizer leaves the organization, that person can be disentangled from the repositories without having to remove material from their personal repository.  
+
+Anyone can create an organization for free.  However, at this point in time, the organization can only have public repositories.  So for operations like labs that might want to have private repos, you'd need to use the P.I.'s account to create a private repo.
+
+<img src="../images-projects/new-organization.png" style="border:1px solid black">
+
+Once you've set up the organization, you can add members, change their status (owner, member, outside collaborator), grant administrative privileges to repos, and establish teams. The ownership of the repository can be granted to other members in the event that the person who created the organization leaves it.  
+
+In a personal account, other users can be granted push access as collaborators, but personal accounts can't have teams.  An advantage of teams is that they can be @mention'ed as a team rather than individuals, and team members can have conversations that aren't limited to an issue, pull request, project, or repository.  Teams also are a way to control levels of access to particular repositories.  Members of the organization can request to join teams, and their requests can be approved by a team owner or maintainer.  So teams may be a good option for large projects if they are open, or part of a paid account.
+
+## Tools for tracking progress
+
+There are three tools that allow you to track your progress on a project at three levels of granularity.  The finest-scale tool is the integrated issues tracker that we can use for keeping track of work on tasks and general communication. At the medium-scale there are milestones, and for the large scale there is the projects tool.  
+
+# Using the issues tracker
+
+The issues tracker is a way to keep up with very particular problems associated with a project.  They may be associated with a particular document or may be a general, overarching problem.
 
 To create a new issue within a particular repo, click the issues tab.  You'll see the list of existing open issues (if any).  To create a new issue, click on the `New issue` button.
 
@@ -103,7 +121,7 @@ Using the issue tracker in this way makes it possible for project participants w
 
 It is also extremely easy for anyone who is annoyed with the amount of message traffic to simply unfollow the repository temporarily or permanently.
 
-## Milestones
+# Milestones
 
 Milestones are a way to track the progress towards a goal.  They are composed of issues or pull requests that must be completed before a goal is complete.  To see milestones or create a new one, click the Milestones tab on either the issues or pull requests page.  If you have any existing milestones, you'll see them listed with an indication of the progress towards completing them.  Progress is measured by the fraction of issues or pull requests that have been closed.
 

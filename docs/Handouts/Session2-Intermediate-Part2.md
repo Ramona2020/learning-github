@@ -54,6 +54,10 @@ The editor presents me with a choice between my change and Tomy's change.  Of co
 
 and I can now commit the resolved file.
 
+## Work cycle for working with the Desktop client
+
+![work cycle](images-2b/work-cycle.png)
+
 ## A better way to manage changes
 
 When Tomy wanted to change the code, instead of committing his change directly to the master branch, he could have created a new branch.

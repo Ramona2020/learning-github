@@ -29,7 +29,9 @@ Friday, February, 22, 2019, 12:10pm
 Central Library, Vanderbilt Poetry Room (612A)
 
 Learn to play well with others using GitHub's collaborative tools.   
-Topics: issues, pull requests as a collaborative tool, project management
+Topics: issues, pull requests as a collaborative tool, project management   
+
+**Handout:** GitHub III: [Advanced](Handouts/Session3-Advanced.md)
 
 
 *Recommended text editor for all sessions: [Atom](https://atom.io/).  You can work with Git and GitHub directly from Atom!*
